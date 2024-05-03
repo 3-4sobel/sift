@@ -13,3 +13,5 @@ SIFT는 Scale-Invariant Feature Transform의 약자로, 이미지에서 크기, 
 - 크기, 회전, 조도 변화에 대한 불변성: 다양한 환경에서 동일한 객체를 인식하는 데 효과적이다.
 - 높은 반복성: 동일한 이미지에서 동일한 키포인트를 일관되게 검출한다.
 - 뛰어난 성능: 객체 인식, 이미지 매칭, 3D 재구성 등 다양한 응용 분야에서 성공적으로 사용된다.
+
+<img width="716" alt="image" src="https://github.com/3-4sobel/sift/assets/106512781/71d42bb2-7bd4-4d43-be11-14de8a5cb428">
